@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hands-on Activity 9.1 Customized Visualizations using Seaborn ⚡</h1>
+<h1 align="center">⚡ Hands-on Activity 9.2 Customized Visualizations using Seaborn ⚡</h1>
 <h3 align="center">This activity introduces visualizing data using Seaborn
   
 This module focused different ways of visualizing data by configuring it with Seaborn
